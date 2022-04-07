@@ -1,6 +1,6 @@
 - Hi, I’m @Marcresi
 - I’m interested in Java Projects, App Development and CP.
-- 🌱 I’m currently learning App Development.
+- 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on any assingment which will help me groww.
 - 📫 How to reach me -My MAIL='harshilsingh2411@gmail.com'.
 
