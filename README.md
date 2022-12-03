@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harshil Singh</h1>
-<h3 align="center">Exploring & looking for opportunities....</h3>
+<h2 align="center">Hi 👋, I'm Harshil Singh</h2>
+<p align="left"> <img src="https://cdn.becomeopedia.com/wp-content/uploads/software-developer-6521720_960_720.jpg" alt="marcresi" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcresi&label=Profile%20views&color=0e75b6&style=flat" alt="marcresi" /> </p>
+<h3 align="center">Exploring & looking for opportunities....</h3>
 
 - 🔭 I’m currently learning **DSA and building innovative project that will help me improve my skillset and help me grow in terms of a software developer.**
 
