@@ -1,7 +1,7 @@
 # 💫 Hi I'm Harshil Singh:
 🔭 I’m currently working on Pragati-An EdTech App.<br>👯 I’m looking to collaborate on interesting innovative Ideas that can challenge me as developer to look forward to analyze & build solutions.<br>🤝 I’m looking for help with Problem Solving and cracking Interviews. <br>🌱 I’m currently learning DSA and building innovative project that will help me improve my skillset and help me grow as a software developer.<br>💬 Ask me about Football and the state of the world.<br>⚡ Fun fact - I want unlimited sleep sessions....
 
-<img src="https://cdn.becomeopedia.com/wp-content/uploads/software-developer-6521720_960_720.jpg" alt="marcresi" height=350 width=400 />
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fblue-purple-technology-circuit_73426-205.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftechnology&tbnid=fVEVXPXzC6aXWM&vet=12ahUKEwjnssTAj977AhWojNgFHaEaAKkQMygRegUIARDjAQ..i&docid=qgyLA4Wft8sSWM&w=2000&h=1125&q=tech%20related%20images&ved=2ahUKEwjnssTAj977AhWojNgFHaEaAKkQMygRegUIARDjAQ" alt="marcresi" height=350 width=400 />
 
 
 ## 🌐 Socials:
