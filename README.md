@@ -1,10 +1,7 @@
 # 💫 Hi I'm Harshil Singh:
 🔭 I’m currently working on Pragati-An EdTech App.<br>👯 I’m looking to collaborate on interesting innovative Ideas that can challenge me as developer to look forward to analyze & build solutions.<br>🤝 I’m looking for help with Problem Solving and cracking Interviews. <br>🌱 I’m currently learning DSA and building innovative project that will help me improve my skillset and help me grow as a software developer.<br>💬 Ask me about Football and the state of the world.<br>⚡ Fun fact - I want unlimited sleep sessions....
-
-
-
-
-## <img src="https://img.freepik.com/premium-photo/blue-purple-technology-circuit_73426-205.jpg?w=2000" alt="marcresi" height=350 width=400 /> | 🌐 Socials:
+ <img src="https://img.freepik.com/premium-photo/blue-purple-technology-circuit_73426-205.jpg?w=2000" alt="marcresi" height=350 width=400 /> 
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshil-singh-66364621b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshilsingh_24)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17261390) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Marcresi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Harshil_44) 
 
