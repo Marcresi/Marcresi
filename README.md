@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshil Singh</h1>
-<h3 align="center">Currently pursuing my B-Tech and looking for opportunities....</h3>
+<h3 align="center">Exploring & looking for opportunities....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcresi&label=Profile%20views&color=0e75b6&style=flat" alt="marcresi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcresi" alt="marcresi" /></a> </p>
 
 - 🔭 I’m currently learning **DSA and building innovative project that will help me improve my skillset and help me grow in terms of a software developer.**
 
@@ -18,13 +16,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshil_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshil_44" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:17261390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17261390" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshil-singh-66364621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshil-singh-66364621b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17261390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17261390" height="30" width="40" /></a>
 <a href="https://instagram.com/harshilsingh_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshilsingh_24" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/marcresi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marcresi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/marcresi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="marcresi" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/marcresi24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="marcresi24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/marcresi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marcresi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/marcresi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="marcresi" height="30" width="40" /></a>
-<a href="https://discord.gg/4548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4548" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
