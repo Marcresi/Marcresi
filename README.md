@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Harshil Singh</h2>
-<p align="left"> <img src="https://cdn.becomeopedia.com/wp-content/uploads/software-developer-6521720_960_720.jpg" alt="marcresi" /> </p>
+
+<p align="left"><h3 align="left">Hi 👋, I'm Harshil Singh</h3> <img src="https://cdn.becomeopedia.com/wp-content/uploads/software-developer-6521720_960_720.jpg" alt="marcresi" /> </p>
 
 <h3 align="center">Exploring & looking for opportunities....</h3>
 
