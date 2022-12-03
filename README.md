@@ -1,7 +1,7 @@
 # 💫 Hi I'm Harshil Singh:
-🔭 I’m currently working on Pragati-An EdTech App.<br>👯 I’m looking to collaborate on interesting innovative Ideas that can challenge me as developer to look forward to analyze & build solutions.<br>🤝 I’m looking for help with Problem Solving and cracking Interviews. <br>🌱 I’m currently learning DSA and building innovative project that will help me improve my skillset and help me grow as a software developer.<br>💬 Ask me about Football and the state of the world.<br>⚡ Fun fact - I want unlimited sleep sessions....
 
-<img src="https://img.freepik.com/premium-photo/blue-purple-technology-circuit_73426-205.jpg?w=2000" alt="marcresi" height=350 width=400 /> 
+<img src="https://img.freepik.com/premium-photo/blue-purple-technology-circuit_73426-205.jpg?w=2000" alt="marcresi" height=350 width=400 /> 🔭 I’m currently working on Pragati-An EdTech App.<br>👯 I’m looking to collaborate on interesting innovative Ideas that can challenge me as developer to look forward to analyze & build solutions.<br>🤝 I’m looking for help with Problem Solving and cracking Interviews. <br>🌱 I’m currently learning DSA and building innovative project that will help me improve my skillset and help me grow as a software developer.<br>💬 Ask me about Football and the state of the world.<br>⚡ Fun fact - I want unlimited sleep sessions....
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshil-singh-66364621b/)
