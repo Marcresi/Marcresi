@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Pragati-An EdTech App.<br>👯 I’m looking to collaborate on interesting innovative Ideas that can challenge me as developer to look forward to analyze & build solutions.<br>🤝 Practising Problem Solving and learning to crack Interviews. <br>🌱 I’m currently learning DSA and building innovative projects that will help me improve my skillset and help me grow as a software developer. <br>💬 Ask me about Football and the state of the world.<br>⚡ Fun fact - ................
 
-<img src="https://img.freepik.com/premium-photo/blue-purple-technology-circuit_73426-205.jpg?w=2000" alt="marcresi" height=350 width=400 />
+<img align="right" alt="coding" width="400"src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshil-singh-66364621b/)
